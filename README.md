@@ -12,4 +12,4 @@
 	- Destructuring.
 	- Promise.
 
-** N:B: ** There might be added more topics in wish list.
+**N:B:** There might be added more topics in wish list.
