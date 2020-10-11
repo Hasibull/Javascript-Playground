@@ -1,9 +1,9 @@
 # Learning JavaScript.
 
-** JavaScript is a lightweight interpreted programming or scripting language. **
+**JavaScript is a lightweight interpreted programming or scripting language.**
 
-### Topics wish to learn.
-	- Defining variables.
+### Topics wish to learn:
+	-Defining variables.
 	- Standard input/outpu.
 	- Function.
 	- Loop.
