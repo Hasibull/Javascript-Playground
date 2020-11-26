@@ -4,7 +4,8 @@
 
 ### Topics wish to learn:
 - Defining variables.
-- Standard input/outpu.
+- Data Types.
+- Standard input/output.
 - Function.
 - Loop.
 - Decision making.
