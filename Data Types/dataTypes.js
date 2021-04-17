@@ -67,6 +67,3 @@ console.log(value);
 var name = "Hasibul Islam";
 
 console.log(name);
-
-/*
-    
