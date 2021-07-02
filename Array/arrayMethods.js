@@ -33,6 +33,12 @@ var filteredArray = array.filter(function(value, index, arr) {
 
 console.log(filteredArray);
 
+var array2 = [100, 200, 300, 400, 500];
+
+var result = array.concat(array2);
+
+console.log(result);
+
 ///Methods that change the main array.
 
 var removed = array.splice(1, 2, 100, 200);
