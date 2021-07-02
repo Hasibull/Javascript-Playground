@@ -32,3 +32,10 @@ var filteredArray = array.filter(function(value, index, arr) {
 });
 
 console.log(filteredArray);
+
+///Methods that change the main array.
+
+var removed = array.splice(1, 2, 100, 200);
+
+console.log('main array ' + array);
+console.log('removed elements ' + removed);
