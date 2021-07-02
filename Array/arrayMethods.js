@@ -22,3 +22,7 @@ var elementIndex = array.findIndex(function(value) {
 });
 
 console.log('Index of 40 is = ' + (elementIndex+1));
+
+var sliceArray = array.slice(1,3);
+
+console.log(sliceArray);
