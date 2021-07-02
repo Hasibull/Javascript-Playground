@@ -16,3 +16,9 @@ if(element > 0) {
 else {
     console.log("Element doesn't exist!");
 }
+
+var elementIndex = array.findIndex(function(value) {
+    return value==40;
+});
+
+console.log('Index of 40 is = ' + (elementIndex+1));
