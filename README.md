@@ -6,6 +6,7 @@
 - Defining variables.
 - Data Types.
 - Standard input/output.
+- Array
 - Function.
 - Loop.
 - Decision making.
