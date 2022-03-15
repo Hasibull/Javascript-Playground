@@ -13,5 +13,6 @@
 - Call back function.
 - Destructuring.
 - Promise.
+- Asynchronous Js.
 
 **N:B:** There might be added more topics in wish list.
