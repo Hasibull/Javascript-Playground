@@ -1,3 +1,7 @@
 *.html
 *.css
 *.vscode
+*.c
+*.cpp
+*.java
+*.o
