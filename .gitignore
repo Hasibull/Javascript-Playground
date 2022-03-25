@@ -4,5 +4,6 @@
 *.c
 *.cpp
 *.java
+*.class
 *.o
 *.py
